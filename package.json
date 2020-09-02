@@ -1,0 +1,10 @@
+{
+  "name": "distributed-backend",
+  "version": "0.0.1",
+  "description": "distributed backend for ushin apps",
+  "main": "index.js",
+  "repository": "https://github.com/USHIN-Inc/distributed-backend.git",
+  "author": "Joseph Turner <joseph@breatheoutbreathe.in>",
+  "license": "AGPLv3+",
+  "private": true
+}
