@@ -6,5 +6,25 @@
   "repository": "https://github.com/USHIN-Inc/distributed-backend.git",
   "author": "Joseph Turner <joseph@breatheoutbreathe.in>",
   "license": "AGPLv3+",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@types/encoding-down": "^5.0.0",
+    "@types/leveldown": "^4.0.2",
+    "@types/levelup": "^4.3.0",
+    "encoding-down": "^6.3.0",
+    "fulltext-engine": "^1.1.1",
+    "jsonquery-engine": "^1.0.2",
+    "level-queryengine": "^3.0.1",
+    "leveldown": "^5.6.0",
+    "levelup": "^4.4.0",
+    "pairs": "^0.0.2",
+    "subleveldown": "^5.0.1",
+    "typescript": "^4.0.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
 }
